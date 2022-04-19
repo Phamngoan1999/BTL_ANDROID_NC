@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:orientation="vertical"
+    tools:context=".ThemTruyenFragment">
+
+    <EditText
+        android:id="@+id/tentruyen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên truyện"
+        android:inputType="textCapWords" />
+
+    <EditText
+        android:id="@+id/noidungtruyen"
+        android:inputType="textMultiLine"
+        android:lines="8"
+        android:minLines="6"
+        android:layout_marginTop="40dp"
+        android:maxLines="10"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:scrollbars="vertical"
+        />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="377dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="200dp"
+        android:gravity="center"
+        android:text="Thêm truyện"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+</FrameLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tentruyen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Tên truyện"
+            android:inputType="textCapWords"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_margin="10dp"/>
+
+        <com.github.barteksc.pdfviewer.PDFView
+            android:id="@+id/pdfView"
+            android:layout_height="500dp"
+            android:layout_width="match_parent"
+            android:layout_marginTop="30dp"/>
+
+
+        <!--        <TextView-->
+<!--            android:id="@+id/noidungtruyen"-->
+<!--            android:inputType="textMultiLine"-->
+<!--            android:lines="100"-->
+<!--            android:minLines="6"-->
+<!--            android:gravity="top|start"-->
+<!--            android:hint="Nội dung truyện"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:scrollbars="vertical"-->
+<!--            android:textSize="15sp"-->
+<!--            android:textColor="#000"-->
+<!--            android:textStyle="bold"-->
+<!--            android:layout_margin="10dp"-->
+<!--            />-->
+    </LinearLayout>
+</LinearLayout>

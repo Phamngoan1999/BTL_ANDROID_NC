@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/outline_home_24"
+        android:title="Thêm truyện" />
+
+    <item
+        android:id="@+id/navigation_sms"
+        android:icon="@drawable/outline_playlist_add_check_24"
+        android:title="Danh sách truyện" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/outline_playlist_add_check_24"
+        android:title="Thêm loại truyện" />
+</menu>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/outline_add_circle_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/outline_add_reaction_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/outline_build_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/outline_cancel_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/outline_home_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/outline_playlist_add_check_20.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/outline_playlist_add_check_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/drawable/outline_view_cozy_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/activity_login_auth.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/activity_main_admin.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/activity_registration.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/activity_themloaitruyen.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/activity_themtruyenpdf.xml" value="0.14719202898550723" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/activity_truyen.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_danh_sach_loai_truyen_admin.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_danh_sach_truyen_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_danh_sach_truyen_theo_loai.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_danh_sach_truyen_theo_loai_admin.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_danh_sach_yeu_thich.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_home_flagment.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_login.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_login_auth.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_them_loai_truyen.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_them_truyen.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_themtruyen.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_timkiem.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_truyenchitiet.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/fragment_updatetruyen.xml" value="0.15217391304347827" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/iterm_loaitruyen.xml" value="0.1852355072463768" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/iterm_loaitruyenadmin.xml" value="0.20108695652173914" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/itermtruyenadmininit.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/layout/itermtruyeninit.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/menu/menu_bottom_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/menu/menu_bottom_nav.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/This PC/Documents/BTL/ADNC/Android_NC/app/src/main/res/menu/menu_bottom_tk.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

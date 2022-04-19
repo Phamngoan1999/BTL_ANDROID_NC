@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/inputTentruyen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tên truyện"
+        android:inputType="textCapWords"
+        android:layout_margin="20dp"/>
+
+    <ImageView
+        android:id="@+id/uploadpdf"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/outline_playlist_add_check_24" />
+
+    <TextView
+        android:id="@+id/textStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload file Pdf"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnUpload"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:text="Thêm truyện"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+</LinearLayout>
